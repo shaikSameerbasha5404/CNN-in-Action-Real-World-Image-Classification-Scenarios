@@ -94,6 +94,8 @@ Training/Validation loss vs. epochs
 Training/Validation accuracy vs. epochs
 
 Confusion Matrix: Visual class performance on test data.
+![WhatsApp Image 2025-07-28 at 13 26 46_3d62c7ed](https://github.com/user-attachments/assets/53bf7884-9b08-4ce6-8e9f-4b3cdacc2c9c)
+
 
 ### Sample Output:
 
